@@ -1,3 +1,11 @@
+# Runtime files
+*.json
+
+# Compilation files
+build/
+shci
+shci_test
+
 # Prerequisites
 *.d
 
